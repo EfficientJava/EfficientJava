@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EfficientJava
 - 👀 I’m interested in ... Game engine design
 - 🌱 I’m currently learning ... C/C++ and GLSL
-- 💞️ I’m looking to collaborate on ... Creating an online Open-World RPG Game using OpenGL
+- 💞️ I’m looking to collaborate on ... Creating an crossplay online Open-World RPG Game using OpenGL and implementing smooth VR gameplay
 - 📫 How to reach me ... efficientjavayt@gmail.com
